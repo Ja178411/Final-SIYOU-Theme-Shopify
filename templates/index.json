@@ -1,0 +1,374 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "rich_text_with_image_T9aE3i": {
+      "type": "rich-text-with-image",
+      "blocks": {
+        "heading_yhch7c": {
+          "type": "heading",
+          "settings": {
+            "subheading": "<p>SIYOU</p>",
+            "font_uppercase": "uppercase",
+            "disable_on_mobile": false
+          }
+        },
+        "text_JJPAfx": {
+          "type": "text",
+          "settings": {
+            "text": "Press On Gel Nails",
+            "font_uppercase": "none",
+            "disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 110,
+            "line_height": 1.7,
+            "button_link1": "",
+            "button_link2": "",
+            "button_link3": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_yhch7c",
+        "text_JJPAfx"
+      ],
+      "settings": {
+        "desktop_text_horizontal_position": "center",
+        "color-body-text": "#000000",
+        "background_color": "#ffe9ef",
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "1645137069750a4751": {
+      "type": "grid-view",
+      "blocks": {
+        "1645137069a9c97a90-1": {
+          "type": "image",
+          "settings": {
+            "heading": "Nail Sets",
+            "heading_disable_on_mobile": false,
+            "size_heading": 100,
+            "size_heading_mobile": 100,
+            "text": "",
+            "text_disable_on_mobile": false,
+            "button_select": "secondary",
+            "button_label": "Shop now",
+            "button_disable_on_mobile": false,
+            "button_link": "",
+            "button_link_in_new_window": false,
+            "color-body-text": "rgba(0,0,0,0)",
+            "color-overlay": "#151515",
+            "color-overlay-opacity": 0,
+            "desktop_image": "shopify://shop_images/MJS-00658_3_4fbf3e26-c682-4a19-8e01-425bc0c55920.png",
+            "desktop_text_vertical_position": "bottom",
+            "desktop_text_horizontal_position": "center",
+            "mobile_text_vertical_position": "bottom",
+            "mobile_text_horizontal_position": "center"
+          }
+        },
+        "dd981072-2de5-4a9b-a045-b39d179adb7a": {
+          "type": "image",
+          "settings": {
+            "heading": "Nail Care",
+            "heading_disable_on_mobile": false,
+            "size_heading": 100,
+            "size_heading_mobile": 100,
+            "text": "",
+            "text_disable_on_mobile": false,
+            "button_select": "secondary",
+            "button_label": "Shop now",
+            "button_disable_on_mobile": false,
+            "button_link": "",
+            "button_link_in_new_window": false,
+            "color-body-text": "rgba(0,0,0,0)",
+            "color-overlay": "rgba(0,0,0,0)",
+            "color-overlay-opacity": 0,
+            "desktop_image": "shopify://shop_images/Untitled_design_3.png",
+            "desktop_text_vertical_position": "bottom",
+            "desktop_text_horizontal_position": "center",
+            "mobile_text_vertical_position": "bottom",
+            "mobile_text_horizontal_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1645137069a9c97a90-1",
+        "dd981072-2de5-4a9b-a045-b39d179adb7a"
+      ],
+      "settings": {
+        "title": "",
+        "swipe_on_mobile": false,
+        "full-width-enabled": true,
+        "image_ratio": "adapt",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "#ffffff",
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "button_6NaGjU": {
+      "type": "button",
+      "settings": {
+        "button_select": "link",
+        "button_horizontal_position": "center",
+        "button_label": "View all products",
+        "button_link": "",
+        "margin-top": 32,
+        "margin-bottom": 60,
+        "background_color": "#ffe9ef"
+      }
+    },
+    "1644542625dcf6daf0": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Our Bestsellers",
+        "disable_on_mobile": false,
+        "hide_empty_section": false,
+        "collection": "all-nail-sets",
+        "product_list": [],
+        "products_to_show": 12,
+        "enable_stack_products": false,
+        "show_view_all": true,
+        "button_select": "link",
+        "number_of_column_desktop": 4,
+        "spacing_desktop": "24",
+        "make_products_full_width": false,
+        "number_of_column_mobile": 1.4,
+        "spacing_mobile": "16",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "show_video": false,
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "enable_vendor_link": false,
+        "show_product_rating": false,
+        "enable_quick_add_button": true,
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "rgba(0,0,0,0)",
+        "margin-top": 56,
+        "margin-bottom": 60
+      }
+    },
+    "scrolling_text_banner_gkJGQt": {
+      "type": "scrolling-text-banner",
+      "blocks": {
+        "heading_x4im6E": {
+          "type": "heading",
+          "settings": {
+            "heading": "Radiate Confidence - Reveal Your Beauty",
+            "size_heading": 100,
+            "size_heading_mobile": 100
+          }
+        }
+      },
+      "block_order": [
+        "heading_x4im6E"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "full-width-enabled": true,
+        "animation_speed": 3,
+        "slide_height": "fixed_height_no_img",
+        "desktop_fixed_height": 100,
+        "mobile_fixed_height": 100,
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "center",
+        "mobile_text_vertical_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "color-heading": "rgba(0,0,0,0)",
+        "section-color-overlay": "rgba(0,0,0,0)",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "rgba(0,0,0,0)",
+        "text-container-color": "rgba(0,0,0,0)",
+        "color-overlay-opacity": 100,
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "image_with_text_fxAPFW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_wcNJHk": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Give your skin \nthe gift of radiance!",
+            "disable_on_mobile": false,
+            "size_heading": 200,
+            "size_heading_mobile": 120
+          }
+        },
+        "countdown_timer_V9wLC3": {
+          "type": "countdown_timer",
+          "settings": {
+            "end_datetime": "2025-02-31 23:59",
+            "expired_message": "Wonder!",
+            "labels_below": true,
+            "timer_style": "text",
+            "scale_timer": 190,
+            "scale_timer_mobile": 120
+          }
+        },
+        "subheading_rbdFHQ": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "WEEKLY PROMO!",
+            "subheading_disable_on_mobile": false
+          }
+        },
+        "text_Ahb6Q7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover the Benefits of our Promotion Sale on Peel-Off Algae Masks!</p>",
+            "text_style": "body",
+            "disable_on_mobile": false
+          }
+        },
+        "button_t6fFwH": {
+          "type": "button",
+          "settings": {
+            "button_select": "primary",
+            "button_label": "Check now",
+            "button_link": "/",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_wcNJHk",
+        "countdown_timer_V9wLC3",
+        "subheading_rbdFHQ",
+        "text_Ahb6Q7",
+        "button_t6fFwH"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "layout": "image_first",
+        "desktop-percentage-image-width": 50,
+        "full-width-enabled": true,
+        "slide_height": "adapt_to_first_image",
+        "desktop_fixed_height": 320,
+        "mobile_fixed_height": 460,
+        "section-color-body-text": "rgba(0,0,0,0)",
+        "section-color-overlay": "rgba(0,0,0,0)",
+        "section-color-overlay-opacity": 100,
+        "color-body-text": "#151515",
+        "color-overlay": "#ecf5e9",
+        "color-overlay-opacity": 100,
+        "desktop_text_vertical_position": "center",
+        "desktop_text_horizontal_position": "center",
+        "mobile_text_horizontal_position": "center",
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "product_slider_URct6q": {
+      "type": "product-slider",
+      "settings": {
+        "heading": "",
+        "full-width-enabled": true,
+        "text_alignment": "center",
+        "product_name_style": "body",
+        "show_vendor": false,
+        "show_rating": false,
+        "layout": "left",
+        "size_heading": 200,
+        "size_heading_mobile": 120,
+        "color-heading-text": "rgba(0,0,0,0)",
+        "section-color-overlay": "rgba(0,0,0,0)",
+        "margin-top": 0,
+        "margin-bottom": 0
+      }
+    },
+    "featured_collection_DpktRM": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "disable_on_mobile": false,
+        "hide_empty_section": false,
+        "collection": "skincare",
+        "product_list": [],
+        "products_to_show": 12,
+        "enable_stack_products": false,
+        "show_view_all": true,
+        "button_select": "link",
+        "number_of_column_desktop": 4,
+        "spacing_desktop": "24",
+        "make_products_full_width": false,
+        "number_of_column_mobile": 1.5,
+        "spacing_mobile": "16",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "show_video": false,
+        "show_secondary_image": false,
+        "show_vendor": true,
+        "enable_vendor_link": false,
+        "show_product_rating": true,
+        "enable_quick_add_button": true,
+        "color-body-text": "#000000",
+        "background_color": "#d8e5d4",
+        "margin-top": 56,
+        "margin-bottom": 60
+      }
+    },
+    "rich_text_8VjD4K": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YNTpEn": {
+          "type": "heading",
+          "settings": {
+            "heading": "#SIYOU",
+            "disable_on_mobile": false,
+            "size_heading": 100,
+            "size_heading_mobile": 100
+          }
+        },
+        "button_tkBG8P": {
+          "type": "button",
+          "settings": {
+            "button_select": "link",
+            "button_label": "Follow us",
+            "button_link": "/",
+            "disable_on_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_YNTpEn",
+        "button_tkBG8P"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "section_width": "regular",
+        "desktop_text_horizontal_position": "center",
+        "color-body-text": "rgba(0,0,0,0)",
+        "background_color": "#ffffff",
+        "margin-top": 16,
+        "margin-bottom": 16
+      }
+    }
+  },
+  "order": [
+    "rich_text_with_image_T9aE3i",
+    "1645137069750a4751",
+    "button_6NaGjU",
+    "1644542625dcf6daf0",
+    "scrolling_text_banner_gkJGQt",
+    "image_with_text_fxAPFW",
+    "product_slider_URct6q",
+    "featured_collection_DpktRM",
+    "rich_text_8VjD4K"
+  ]
+}
